@@ -10,8 +10,8 @@
 rupesh989/rupesh989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Jayesh</h1>
-<h3 align="center">A passionate full-stack developer from India🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Rupesh</h1>
+<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on **as a React developer.**
 
