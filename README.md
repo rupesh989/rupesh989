@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **rupeshbavaskar24@gmail.com**
 
-- 📄 Know about my experiences [(linkedin.com/in/rupesh-bavaskar](https://www.linkedin.com/in/rupesh-bavaskar)
+- 📄 Know about my experiences at: site is live at https://rupesh989.github.io/rupesh-portfolio-with-js/
+ [(linkedin.com/in/rupesh-bavaskar](https://www.linkedin.com/in/rupesh-bavaskar)
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
