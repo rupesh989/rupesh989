@@ -42,4 +42,11 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+💬 Programming Languages: 
+TypeScript               13 hrs 27 mins      ██████████████████████░░░   87.76 % 
+Vue.js                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
   </p>
