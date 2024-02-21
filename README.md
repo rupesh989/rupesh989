@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
-- 🔭 I’m currently working on **as a React developer.**
+- 🔭 I’m currently working on **as a Software Developer.**
 
 - 👨‍💻 All of my projects are available at 
 
