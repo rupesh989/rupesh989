@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **as a Software Developer.**
 
-- 👨‍💻 All of my projects are available at 
-
 - 📫 How to reach me **rupeshbavaskar24@gmail.com**
 
 - 📄 Know about my experiences at: site is live at https://rupesh989.github.io/rupesh-portfolio-with-js/
