@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rupeshbavaskar24@gmail.com**
 
-- 📄 Know about my experiences at: site is live at https://rupesh989.github.io/rupesh-portfolio-with-js/
+- 📄 Know about my experiences at: site is live at [https://rupesh989.github.io/rupesh-portfolio-with-js/](https://rupesh989.github.io/Portfolio/)
 
 ## 🌐 Socials:
 
